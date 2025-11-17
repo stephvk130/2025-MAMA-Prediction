@@ -13,6 +13,7 @@ We are interested in:
 - What is the performance of top groups this year (2025)?
 
 This repository contains:
+- README File
 - Data (scraped from API)
 - Data Pre-processing & EDA Coding File
 - Prediction Model Coding File

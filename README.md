@@ -7,10 +7,10 @@ This repository is for a data science project that predicts the 2025 MAMA Winner
 - Best Male Group
 - Song of the Year
 
-where the streaming data and youtube comments and like statistics are the main consideration.
+where the streaming data and youtube comments and like statistics are the main variables.
 
 We are interested in:
-- Does the award winner reflect the predictions we obtain from Spotify and Youtube data?
+- Does the award winners reflect the predictions we obtain from Spotify and Youtube data?
 - What is the performance of top groups this year (2025)?
 
 This repository contains:

@@ -7,7 +7,7 @@ This repository is for a data science project that predicts the 2025 MAMA Winner
 - Best Male Group
 - Song of the Year
 
-where the popularity data, youtube comments & like statistics, and google trend data would be used.
+where the popularity data, youtube subscribers & view statistics, and google trend data would be used.
 
 We are interested in:
 - Does the award winners reflect the predictions we obtain from Spotify, Youtube data and Google trend?
